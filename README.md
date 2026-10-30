@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225220092
+# Name: SHAALINI S
+# Date: 30-10-2026
 
 
 # AIM:
@@ -30,6 +30,9 @@ To develop the ATM and Banking System using Star UML
 
 
 # UML DIAGRAMS
+
+<img width="1042" height="725" alt="image" src="https://github.com/user-attachments/assets/94fb4384-fbe3-4705-b80f-ae0165cea1ad" />
+
 
 # USE CASE DIAGRAM
 
@@ -68,6 +71,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="910" height="705" alt="image" src="https://github.com/user-attachments/assets/3d07506c-53ed-4bec-be16-79d16db1b31e" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -76,6 +80,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="917" height="702" alt="image" src="https://github.com/user-attachments/assets/b3e58d9f-84e8-428f-8148-a23b105927ab" />
 
 
 
@@ -90,6 +95,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1033" height="620" alt="image" src="https://github.com/user-attachments/assets/64588c16-c201-4d57-8d98-2b9b1a030110" />
 
 
 
@@ -107,6 +113,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="911" height="707" alt="image" src="https://github.com/user-attachments/assets/6aa80969-10f4-4a46-8620-c4e498075c00" />
 
 
 
@@ -128,6 +135,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="898" height="707" alt="image" src="https://github.com/user-attachments/assets/6f2b178d-beb6-41de-8fa2-dd1353018d9e" />
 
 
 
